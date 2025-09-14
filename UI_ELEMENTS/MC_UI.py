@@ -16,7 +16,7 @@ device = torch.device("cpu")
 print(f"Cihaz: {device}")
 
 # YouTube API anahtarı
-API_KEY = "AIzaSyDnLcG-NAVZ0vpZo-N49yKy379FWW35bvA"
+API_KEY = "api_key"
 
 # Global değişkenler
 model = None

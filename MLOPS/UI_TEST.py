@@ -13,7 +13,7 @@ import html
 analyzer = zeyrek.MorphAnalyzer()
 
 # YouTube API anahtarı
-API_KEY = "AIzaSyDnLcG-NAVZ0vpZo-N49yKy379FWW35bvA"
+API_KEY = "api_key"
 
 
 def clean_html_tags_and_time(text):
